@@ -1,11 +1,16 @@
 _repo: Venna-Hastings-Story-of-an-Eastern-Mormon-Convert_52552
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52552-h/images/cover.jpg
 creator:
   author:
     agent_name: Farr, Julia
     gutenberg_agent_id: '46528'
     url: http://www.gutenberg.org/2009/agents/46528
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52552#Venna-Hastings-Story-of-an-Eastern-Mormon-Convert
 gutenberg_issued: '2016-07-11'
 gutenberg_type: Text
 identifiers:
